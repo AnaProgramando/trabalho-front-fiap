@@ -59,14 +59,14 @@ Senha: "S3nh@.S3cr3t@"
 
 
 ## Integrantes do trabalho: 
-DIEGO LUAN BAGGIO DE OLIVEIRA FONSECA
-RAY KENNEDY BARBOSA DA SILVA 
-ANA BEATRIZ VALENTIM DA ROCHA SILVA
-OLAVO BELFORT D ARANTES MEDEIROS JUNIOR 
+- DIEGO LUAN BAGGIO DE OLIVEIRA FONSECA
+- RAY KENNEDY BARBOSA DA SILVA 
+- ANA BEATRIZ VALENTIM DA ROCHA SILVA
+- OLAVO BELFORT D ARANTES MEDEIROS JUNIOR 
 
 
 ## Entrega
-Matéria: Front-End Engineering e UX
-Prof.: Josiel Rocha
-Email: profjosiel.rocha@fiap.com.br
+- Matéria: Front-End Engineering e UX
+- Prof.: Josiel Rocha
+- Email: profjosiel.rocha@fiap.com.br
 
